@@ -11,7 +11,7 @@
 - 게시판 작성, 수정, 삭제
 - 권한부여 (권한만 부여 했으며, 다른 기능은 구현되지 않았습니다)
 - 회원 정보 수정
-```sh
+
 ## 설치 방법
 --1. GitHub에서 프로젝트 다운로드
 GitHub 레포지토리 페이지로 이동하여 "Code" 버튼을 클릭한 후, "Download ZIP"을 선택하여 프로젝트를 다운로드합니다.
@@ -37,7 +37,7 @@ src/main/resources 디렉토리의 egovframework/spring/com/context-datasource.x
 Run -> Run As -> Run on Server를 선택하여 서버를 실행합니다.
 브라우저를 열어 http://localhost:8080으로 접근하여 프로젝트가 정상적으로 실행되는지 확인합니다.
 
-##사용 방법
+## 사용 방법
 - 브라우저에서 http://localhost:8080으로 접근합니다.
 - 회원가입 페이지에서 새로운 계정을 생성합니다.
 - 로그인 페이지에서 생성한 계정으로 로그인합니다.
@@ -45,7 +45,7 @@ Run -> Run As -> Run on Server를 선택하여 서버를 실행합니다.
 - 게시판 페이지에서 게시물을 작성, 수정, 삭제할 수 있습니다.
 - 관리자 계정으로 로그인하면 다른 사용자에게 권한을 부여할 수 있습니다.
 
-##기술 스택
+## 기술 스택
 - jQuery
 - Spring API
 - Spring Security
