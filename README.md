@@ -11,13 +11,12 @@
 - 게시판 작성, 수정, 삭제
 - 권한부여 (권한만 부여 했으며, 다른 기능은 구현되지 않았습니다)
 - 회원 정보 수정
-
+```sh
 ## 설치 방법
 --1. GitHub에서 프로젝트 다운로드
 GitHub 레포지토리 페이지로 이동하여 "Code" 버튼을 클릭한 후, "Download ZIP"을 선택하여 프로젝트를 다운로드합니다.
 또는, Git을 사용하여 클론합니다.
 
-```sh
 git clone https://github.com/githubjjunyeop/SpringProject
 cd SpringProject
 - 2. 이클립스에서 프로젝트 가져오기
