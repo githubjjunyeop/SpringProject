@@ -52,15 +52,5 @@ Run -> Run As -> Run on Server를 선택하여 서버를 실행합니다.
 - Spring MVC
 - JSTL
 
-## 기여 방법
-- 이 레포지토리를 포크합니다.
-- 새로운 브랜치를 생성합니다 (git checkout -b feature/새로운기능).
-- 변경 사항을 커밋합니다 (git commit -am 'Add 새로운기능').
-- 포크한 레포지토리로 푸시합니다 (git push origin feature/새로운기능).
-- Pull Request를 생성합니다.
-
-## 라이선스
-- 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참고하세요.
-
 작성자 정보
 국비학원을 졸업하고 자바 알고리즘 위주의 학습을 끝낸 후 간단한 자바스크립트로 윷놀이, 포커, 오목을 구현하였습니다. 졸업 후에는 Spring 학습을 꾸준히 하고 있습니다.
