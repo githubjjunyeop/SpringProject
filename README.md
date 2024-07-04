@@ -63,31 +63,6 @@ Database: 설정된 데이터베이스 (context-datasource.xml 참조)
 변경 사항을 커밋(Commit)합니다.
 자신의 브랜치로 푸시(Push)합니다.
 Pull Request를 엽니다.
-라이선스
-MIT License
 
-sql
-코드 복사
-MIT License
-
-Copyright (c) 2024 githubjjunyeop
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 작성자 정보
 국비학원를 졸업하고 자바 알고리즘 위주의 학습을 끝낸 후 간단한 자바스크립트로 윷놀이, 포커, 오목을 구현하였고 졸업 후에는 Spring 학습을 꾸준히 하고 있습니다.
