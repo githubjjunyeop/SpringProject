@@ -1,20 +1,34 @@
-프로젝트 개요
+# 프로젝트 개요
+
 이 프로젝트는 전자정부표준프레임워크(eGovFrame) 4.2.0 버전에서 Spring MVC와 Spring Security 환경으로 만든 회원 홈페이지입니다. 이 프로젝트는 전자정부프레임워크를 활용하여 웹 개발의 기본 기능을 익히고, 회원 관리 시스템을 구축하는 것을 목표로 합니다.
 
-주요 기능
-회원가입
-로그인 및 로그아웃
-프로필 사진 업로드
-게시판 작성, 수정, 삭제
-권한 부여 (기본적인 권한 설정만 구현)
-회원 정보 수정
-설치 방법
-GitHub에서 프로젝트 다운로드
+## 목차
+
+- [주요 기능](#주요-기능)
+- [설치 방법](#설치-방법)
+- [사용 방법](#사용-방법)
+- [기술 스택](#기술-스택)
+- [기여 방법](#기여-방법)
+- [라이선스](#라이선스)
+- [작성자 정보](#작성자-정보)
+
+## 주요 기능
+
+- 회원가입
+- 로그인 및 로그아웃
+- 프로필 사진 업로드
+- 게시판 작성, 수정, 삭제
+- 권한 부여 (기본적인 권한 설정만 구현)
+- 회원 정보 수정
+
+## 설치 방법
+
+### GitHub에서 프로젝트 다운로드
+
 GitHub 레포지토리 페이지로 이동하여 "Code" 버튼을 클릭한 후, "Download ZIP"을 선택하여 프로젝트를 다운로드합니다.
 또는, Git을 사용하여 클론합니다.
 
-bash
-코드 복사
+```bash
 git clone https://github.com/githubjjunyeop/SpringProject
 cd SpringProject
 이클립스에서 프로젝트 가져오기
@@ -63,6 +77,7 @@ Database: 설정된 데이터베이스 (context-datasource.xml 참조)
 변경 사항을 커밋(Commit)합니다.
 자신의 브랜치로 푸시(Push)합니다.
 Pull Request를 엽니다.
+
 라이선스
 MIT License
 
@@ -90,4 +105,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 작성자 정보
-국비학원를 졸업하고 자바 알고리즘 위주의 학습을 끝낸 후 간단한 자바스크립트로 윷놀이, 포커, 오목을 구현하였고 졸업 후에는 Spring 학습을 꾸준히 하고 있습니다.
+국비학원을 졸업하고 자바 알고리즘 위주의 학습을 끝낸 후 간단한 자바스크립트로 윷놀이, 포커, 오목을 구현하였고 졸업 후에는 Spring 학습을 꾸준히 하고 있습니다.
